@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">E-LUM App</string>
+    <string name="nim">NIM</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="nidn">NIDN</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bambang">Hi, Bambang</string>
+    <string name="home">Home</string>
+    <string name="kode_matakuliah">Kode Matakuliah</string>
+    <string name="nama_matakuliah">Nama Matakuliah</string>
+    <string name="status">Status</string>
+    <string name="qr_code">QR CODE</string>
+    <string name="hi_bambang">Hi, Bambang</string>
+    <string name="daftar_matakuliah">DAFTAR MATAKULIAH</string>
+
+
+    <!--    Room-->
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="empty">Field can not be blank</string>
+    <string name="update">Update</string>
+    <string name="change">Ubah</string>
+    <string name="add">Tambah</string>
+    <string name="save">Simpan</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_cancel">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="added">Satu item berhasil ditambahkan</string>
+    <string name="changed">Satu item berhasil diubah</string>
+    <string name="deleted">Satu item berhasil dihapus</string>
+    <string name="semester">Semester</string>
+    <string name="no_text">No</string>
+    <string name="Presensi">Presensi</string>
+    <string name="profile">PROFILE</string>
+    <string name="example_date">10 April 2022</string>
+    <string name="detail">Detail</string>
+    <string name="action">Action</string>
+    <string name="txt_detail">DETAIL</string>
+    <string name="txt_btn_back">Tombol Kembali</string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="example_name_matakuliah">Bahasa Indonesia</string>
+    <string name="txt_date">DATE</string>
+    <string name="txt_time">TIME</string>
+    <string name="input_date">Input Date</string>
+    <string name="input_time">Input Time</string>
+    <string name="scanning">Scanning..</string>
+    <string name="bobot">SKS</string>
+    <string name="hello_susi">Hello, Susi</string>
+    <string name="something_wrong">Oops.. something went wrong</string>
+    <string name="warning">Warning!!</string>
+    <string name="message_qrcode_empty">QR Code tidak tersedia!!</string>
+    <string name="message_status_bayar">Anda belum melunasi tagihan</string>
+    <string name="example_kode_matakuliah">10001</string>
+    <string name="logout">Logout</string>
+    <string name="button_text_ok">Ok</string>
+
+    <string-array name="list_fakultas">
+        <item>FISKOM</item>
+        <item>TS</item>
+        <item>FARMASI</item>
+        <item>FEBI</item>
+        <item>FAK</item>
+    </string-array>
+</resources>
